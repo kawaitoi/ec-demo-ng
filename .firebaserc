@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ec-demo-a679f"
+  },
+  "targets": {
+    "ec-demo-a679f": {
+      "hosting": {
+        "ec-demo": [
+          "ec-demo-a679f"
+        ]
+      }
+    }
+  }
+}
